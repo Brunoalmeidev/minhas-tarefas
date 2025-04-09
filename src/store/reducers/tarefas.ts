@@ -25,7 +25,7 @@ const initialState: TarefasState = {
     {
       id: 3,
       descricao: 'Praticar a construçao de uma landing page',
-      prioridade: enums.Prioridade.NORMAL,
+      prioridade: enums.Prioridade.IMPORTANTE,
       status: enums.Status.PENDENTE,
       titulo: 'Estudar Bootstrap'
     }
